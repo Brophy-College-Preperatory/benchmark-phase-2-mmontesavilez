@@ -1,0 +1,56 @@
+body, html {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20240104/pngtree-scribbly-textured-vector-illustration-aesthetic-nature-landscape-of-abstract-green-fields-image_13891294.png"); 
+    font-family: 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1 {
+    color: black;
+  }
+
+  h2 {
+    color: black;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+  }
+
+  li {
+    float: left; 
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  #website {
+    border-style: solid;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
+
+  p {
+    color:black;
+  }
+
+  .img3 {
+    shape-image-threshold: ;
+
+  }
+
+  
+  
