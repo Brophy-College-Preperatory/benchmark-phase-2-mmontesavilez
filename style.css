@@ -45,6 +45,29 @@ body, html {
 
   p {
     color:black;
+    border: 2px solid black;
+    padding: 10px;
+    display: inline-block;
+  }
+
+  nav ul li a:hover {
+    text-decoration: underline;
+    background-color:burlywood;
+    color:white
+
+
+  }
+
+  img {
+    border: 2px solid white;
+    padding: 2px;
+    display: inline-block;
+  }
+
+  iframe {
+    border: 2px solid white;
+    padding: 2px;
+    display: inline-block;
   }
 
   
